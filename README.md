@@ -92,16 +92,19 @@ O registrarte con uno nuevo (recibirás un correo para activar tu cuenta).
 seneca-fullstack-test/
 ├── backend/
 │   ├── controllers/
+│   ├── middleware/
 │   ├── models/
 │   ├── routes/
 │   ├── utils/
 │   ├── .env.example 
 │   └── server.js
 ├── frontend/
+│   ├── public/
 │   ├── src/
 │   │   ├── pages/
 │   │   ├── components/
 │   │   └── App.js
+│   │   └── App.css
 │   └── index.js
 └── README.md
 ```
