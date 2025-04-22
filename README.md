@@ -10,7 +10,7 @@ Cuenta con frontend en React y backend en Node.js + Express, e implementa funcio
 
 - 🔐 Inicio de sesión (con registro de última sesión)
 - 📝 Registro de usuarios
-- ✅ Activación de cuenta por correo
+- ✅ Activación de cuenta por correo (se demora un momento en actualizar la pagina)
 - 🔁 Recuperación de contraseña
 - 🧾 Actualización de datos del usuario (nombre, apellido, dirección, fecha de nacimiento)
 - 👤 Usuario por defecto al iniciar el servidor
